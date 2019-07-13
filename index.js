@@ -120,8 +120,6 @@ function sort(theArray){
   }
 }
 
-sort(array1); //output: [3,4,5,8,11]
-
 exports.map = map;
 exports.filter = filter;
 exports.find = find;
